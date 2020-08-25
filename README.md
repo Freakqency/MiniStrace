@@ -2,7 +2,7 @@
 ## A simple implmentation of linux syscall tracer
 
 ### Description
-ministrace is a simple implementation of linux strace which trace the system calls made by any application. Ministrace at its current state prints the syscall number for the system call which are made by the application.
+ministrace is a simple implementation of linux strace which trace's the system calls made by any application. Ministrace at its current state prints the syscall numbers for the system calls made by the applications.
 
 ### Demo
 
